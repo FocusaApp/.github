@@ -1,1 +1,1 @@
-![ghHero](https://user-images.githubusercontent.com/64413609/176571141-f53b517d-5e6d-4072-88d0-c1b7aea1ba72.png)
+<img width="1090" alt="ghHero" src="https://user-images.githubusercontent.com/64413609/176571889-09334cce-0a5e-48de-a392-675d5e641a10.png">
